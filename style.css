@@ -1,7 +1,7 @@
 :root{
     --caixa-cor-frente: #9226a5;
     --caixa-cor-verso: #d782e3; 
-    --fundo: #dacece;
+    --fundo: #f7cff7;
     --preto: rgb(14, 14, 14);
     --branco: white;
     --cor-texto--destaque: black;
@@ -48,4 +48,10 @@ footer{
     padding: 0.5rem;
     position: absolute;
     margin: 0.5rem;
+}
+
+.carrto_conteudo p {
+    margin-top: 2rem;
+    padding: 2rem;
+    padding-top: 3rem;
 }
