@@ -1,8 +1,8 @@
 :root{
     --caixa-cor-frente: #9226a5;
     --caixa-cor-verso: #d782e3; 
-    --fundo: #6f2ee7;
-    --preto: black;
+    --fundo: #000000;
+    --preto: rgb(255, 0, 0);
     --branco: white;
     --cor-texto--destaque: black;
 
