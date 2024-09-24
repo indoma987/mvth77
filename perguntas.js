@@ -100,23 +100,23 @@ criaCartao(
             'O que é a teoria da evolução?',
             'R= A teoria da evolução, proposta por Charles Darwin, sugere que as espécies se desenvolvem ao longo do tempo por meio de um processo chamado seleção natural, onde os organismos mais bem adaptados ao seu ambiente têm mais chances de sobreviver e reproduzir')
             
-            criaCartao(
-            'Biologia',
+criaCartao(
+'Biologia',
             
-            'Quais são os principais tipos de tecido no corpo humano?',
-            'R= Os principais tipos de tecido são: Tecido epitelial, tecido conjuntivo, tecido muscular, tecido nervoso')
+'Quais são os principais tipos de tecido no corpo humano?',
+'R= Os principais tipos de tecido são: Tecido epitelial, tecido conjuntivo, tecido muscular, tecido nervoso')
             
-            criaCartao(
-            'Biologia',
+criaCartao(
+'Biologia',
             
-            'O que são organismos autotróficos e heterotróficos?',
-            'R=Organismos autotróficos produzem seu próprio alimento (como as plantas, que realizam fotossíntese), enquanto organismos heterotróficos obtêm alimento consumindo outros organismos (como os animais)')
+'O que são organismos autotróficos e heterotróficos?',
+'R=Organismos autotróficos produzem seu próprio alimento (como as plantas, que realizam fotossíntese), enquanto organismos heterotróficos obtêm alimento consumindo outros organismos (como os animais)')
             
-            criaCartao(
-            'Biologia',
+criaCartao(
+'Biologia',
             
-            'O que é o DNA e qual a sua função?',
-            'R= O DNA (ácido desoxirribonucleico) é uma molécula que contém as informações genéticas necessárias para o desenvolvimento, funcionamento e reprodução dos organismos. Ele é composto por duas cadeias que se entrelaçam em uma estrutura chamada dupla hélice')
+'O que é o DNA e qual a sua função?',
+'R= O DNA (ácido desoxirribonucleico) é uma molécula que contém as informações genéticas necessárias para o desenvolvimento, funcionamento e reprodução dos organismos. Ele é composto por duas cadeias que se entrelaçam em uma estrutura chamada dupla hélice')
 
             
             
